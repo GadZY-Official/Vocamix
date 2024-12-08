@@ -1,0 +1,67 @@
+[
+  {
+    "id": "background_music",
+    "type": "music",
+    "path": "assets/data/sounds/music.mp3"
+  },
+    {
+    "id": "click",
+    "type": "sfx",
+    "path": "assets/data/sounds/clicks/click_1.wav"
+  },
+      {
+    "id": "autocomplete",
+    "type": "sfx",
+    "path": "assets/data/sounds/clicks/autocomplete.wav"
+  },
+   {
+    "id": "lose",
+    "type": "sfx",
+    "path": "assets/data/sounds/lose.wav"
+  },
+     {
+    "id": "win",
+    "type": "sfx",
+    "path": "assets/data/sounds/win.wav"
+  },
+       {
+    "id": "bravo_rayen",
+    "type": "sfx",
+    "path": "assets/data/sounds/voice/bravo_rayen.mp3"
+  },
+         {
+    "id": "chapeau_rayen",
+    "type": "sfx",
+    "path": "assets/data/sounds/voice/chapeau_rayen.mp3"
+  },
+           {
+    "id": "excellent_rayen",
+    "type": "sfx",
+    "path": "assets/data/sounds/voice/excellent_rayen.mp3"
+  },
+             {
+    "id": "félicitations_rayen",
+    "type": "sfx",
+    "path": "assets/data/sounds/voice/félicitations_rayen.mp3"
+  },
+               {
+    "id": "formidable_rayen",
+    "type": "sfx",
+    "path": "assets/data/sounds/voice/formidable_rayen.mp3"
+  },
+                 {
+    "id": "impressionnant_rayen",
+    "type": "sfx",
+    "path": "assets/data/sounds/voice/impressionnant_rayen.mp3"
+  },
+                   {
+    "id": "magnifique_rayen",
+    "type": "sfx",
+    "path": "assets/data/sounds/voice/magnifique_rayen.mp3"
+  },
+                   {
+    "id": "superbe_rayen",
+    "type": "sfx",
+    "path": "assets/data/sounds/voice/superbe_rayen.mp3"
+  }
+]

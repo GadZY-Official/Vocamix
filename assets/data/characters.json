@@ -1,0 +1,90 @@
+[
+    {
+    "name": "Alfred de Musset",
+    "image": "./assets/data/images/Alfred de Musset_.png",
+    "levelRequired": 1,
+    "expirationDuration": "60h",
+    "life": "1810-1857",
+    "description": "Poète et dramaturge romantique français, célèbre pour ses œuvres empreintes de passion et de mélancolie."
+  },
+  {
+    "name": "Colette",
+    "image": "./assets/data/images/Colette_.png",
+    "levelRequired": 10,
+    "expirationDuration": "48h",
+    "life": "1873-1954",
+    "description": "Romancière française renommée pour ses écrits sur la condition féminine et la vie quotidienne."
+  },
+  {
+    "name": "Émile Zola",
+    "image": "./assets/data/images/Emilie Zola_.png",
+    "levelRequired": 100,
+    "expirationDuration": "42h",
+    "life": "1840-1902",
+    "description": "Écrivain et journaliste français, chef de file du naturalisme et auteur de nombreux romans sociaux."
+  },
+  {
+    "name": "Marcel Proust",
+    "image": "./assets/data/images/Marcel Proust_.png",
+    "levelRequired": 300,
+    "expirationDuration": "36h",
+    "life": "1871-1922",
+    "description": "Auteur français connu pour son chef-d'œuvre À la recherche du temps perdu, explorant la mémoire et le temps."
+  },
+  {
+    "name": "Michel Foucault",
+    "image": "./assets/data/images/Michel Foucault_.png",
+    "levelRequired": 500,
+    "expirationDuration": "30h",
+    "life": "1926-1984",
+    "description": "Philosophe et historien français, spécialiste des systèmes de pensée et des rapports de pouvoir."
+  },
+  {
+    "name": "Simone de Beauvoir",
+    "image": "./assets/data/images/Simone de Beauvoir_.png",
+    "levelRequired": 1000,
+    "expirationDuration": "24h",
+    "life": "1908-1986",
+    "description": "Écrivaine et philosophe française, figure majeure du féminisme moderne."
+  },
+  {
+    "name": "Voltaire",
+    "image": "./assets/data/images/Voltaire_.png",
+    "levelRequired": 1800,
+    "expirationDuration": "12h",
+    "life": "1694-1778",
+    "description": "Écrivain et philosophe français des Lumières, défenseur de la liberté de pensée et critique de l’injustice."
+  },
+  {
+    "name": "Albert Camus",
+    "image": "./assets/data/images/Albert Camus_.png",
+    "levelRequired": 2600,
+    "expirationDuration": "06h",
+    "life": "1913-1960",
+    "description": "Auteur et philosophe français, représentant de l'absurde et défenseur de la liberté humaine."
+  },
+  {
+    "name": "Jean-Paul Sartre",
+    "image": "./assets/data/images/Jean Paul Sartre_.png",
+    "levelRequired": 3200,
+    "expirationDuration": "03h",
+    "life": "1905-1980",
+    "description": "Philosophe et écrivain français, figure centrale de l'existentialisme."
+  },
+  {
+    "name": "René Descartes",
+    "image": "./assets/data/images/René Descartes.png",
+    "levelRequired": 4000,
+    "expirationDuration": "90m",
+    "life": "1596-1650",
+    "description": "Philosophe et mathématicien français, père du rationalisme et célèbre pour sa pensée méthodique."
+  },
+  {
+    "name": "Victor Hugo",
+    "image": "./assets/data/images/Victor Hugo_.png",
+    "levelRequired": 5000,
+    "expirationDuration": "30m",
+    "life": "1802-1885",
+    "description": "Poète, romancier et dramaturge français, figure emblématique du romantisme et défenseur de la justice sociale."
+  }
+]
